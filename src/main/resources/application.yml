@@ -15,7 +15,6 @@ spring:
       mode: never
 
 ---
-
 spring:
   config:
     activate:
